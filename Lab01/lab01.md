@@ -3,44 +3,42 @@
 
 ----------
 # Creating Linux Instance  #
-![](http://i.imgur.com/rKY5hEO.png)
+![](http://i.imgur.com/XEZWAI5.png)
 
-![](http://i.imgur.com/kU42jAS.png)
+![](http://i.imgur.com/fZlKx7T.png)
 
-![](http://i.imgur.com/W0a2Vma.png)
+![](http://i.imgur.com/YVTm1tY.png)
 
-![](http://i.imgur.com/Q5nsSnH.png)
+![](http://i.imgur.com/CayEIhz.png)
 
-![](http://i.imgur.com/ymvqpJ2.png)
+![](http://i.imgur.com/B5aVNG5.png)
 
-![](http://i.imgur.com/yj6KLTb.png)
+![](http://i.imgur.com/9PLHnRG.png)
 
-![](http://i.imgur.com/huPNXYz.png)
 # Creating Windows Instance  #
-![](http://i.imgur.com/AQhXaZC.png)
+![](http://i.imgur.com/2Tzt2YP.png)
 
-![](http://i.imgur.com/B5rHtOI.png)
+![](http://i.imgur.com/wcJCUZk.png)
 
-![](http://i.imgur.com/mfHDWt0.png)
+![](http://i.imgur.com/dk6o5QI.png)
 
-![](http://i.imgur.com/zESrUGG.png)
+![](http://imgur.com/uFkHpFY.png)
 
-![](http://i.imgur.com/NOAUPMA.png)
+![](http://i.imgur.com/JOKATeN.png)
 
 # SSH to Linux Instance  #
-![](http://i.imgur.com/iidLqh6.png)
+![](http://i.imgur.com/6xng12O.png)
 
-![](http://i.imgur.com/aJRClkO.png)
+![](http://i.imgur.com/Gip3adb.png)
 
-![](https://i.imgur.com/6bhBGlL.png)
+![](http://i.imgur.com/qolzoe5.png)
 
-![](http://i.imgur.com/AwjesFI.png)
+![](http://i.imgur.com/q3P949G.png)
+
 
 # RDP to Windows Instance  #
-![](http://i.imgur.com/nkI9LSI.png)
+![](http://i.imgur.com/xsYjoXt.png)
 
-![](http://i.imgur.com/9ed03EM.png)
+![](http://i.imgur.com/taPV1iA.png)
 
-![](https://i.imgur.com/ja44NoP.png)
-
-![](https://i.imgur.com/qyoDFkW.png)
+![](http://i.imgur.com/uEbi5pd.png)
